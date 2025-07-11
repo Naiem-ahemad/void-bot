@@ -16,3 +16,4 @@ pytesseract
 tiktoken 
 datetime
 urllib
+duckduckgo_search
