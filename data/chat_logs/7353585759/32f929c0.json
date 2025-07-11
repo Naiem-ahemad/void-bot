@@ -1,0 +1,12 @@
+{
+  "title": "New Chat",
+  "created": "2025-06-21T19:29:34.944152",
+  "role":"admin" ,
+  "history": [
+    {
+      "timestamp": "2025-06-21T19:29:36.985697",
+      "user": "helllo",
+      "bot": "Hey there!  Hello to you too!  How's it going?  Anything exciting happening today?"
+    }
+  ]
+}
