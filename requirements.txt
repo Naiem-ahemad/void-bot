@@ -5,15 +5,8 @@ Pillow
 pytesseract
 google-generativeai
 dotenv
-os
 emoji
-uuid
-json
-subprocess
 PyPDF2
 pdf2image
-pytesseract
-tiktoken 
-datetime
-urllib
+tiktoken
 duckduckgo_search
