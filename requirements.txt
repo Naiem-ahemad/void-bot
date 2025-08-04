@@ -4,9 +4,10 @@ requests
 Pillow
 pytesseract
 google-generativeai
-dotenv
+python-dotenv
 emoji
 PyPDF2
 pdf2image
+fpdf
 tiktoken
-duckduckgo_search
+duckduckgo-search
